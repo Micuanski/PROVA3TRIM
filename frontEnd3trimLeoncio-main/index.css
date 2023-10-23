@@ -1,0 +1,27 @@
+body{
+    background-color:white ;
+}
+
+header{
+    background-color:  pink;
+    padding:2em;
+    margin-bottom: 0%;
+}
+
+main {
+width: 80%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 0%;
+padding: 10px;
+height: fit-content;
+
+}
+
+p{
+    size: 20px;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
